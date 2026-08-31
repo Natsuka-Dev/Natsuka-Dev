@@ -27,9 +27,3 @@ I'm working toward becoming a Data Engineer.
 I'm particularly interested in the intersection between:
 Programming → Data → Systems
 My long-term goal is to build a strong understanding of how data is collected, processed, stored and transformed into something useful.
-
-📚 How I learn
-
-I prefer learning by building things and solving problems rather than following solutions.
-When something doesn't work, I want to understand the reason — not just fix the error.
-That's why you'll find a mix of projects, exercises and algorithm problems here. They're all part of the same process: learning by doing.
