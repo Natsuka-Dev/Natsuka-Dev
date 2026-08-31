@@ -1,4 +1,4 @@
-##Hi, I'm Natsuka 👋
+Hi, I'm Natsuka 👋
 
 I'm a self-taught developer currently building my foundations in software engineering, algorithms, and data.
 
