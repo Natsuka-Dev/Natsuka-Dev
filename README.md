@@ -6,17 +6,9 @@
 
 <br>
 
-```bash
-natsuka@localhost ~ % whoami
-> a self-taught developer building strong foundations in
-> software engineering, algorithms and low-level systems.
-
-natsuka@localhost ~ % cat philosophy.txt
-> Making it work is easy. Understanding *why* it works — that's the part worth chasing.
-
-natsuka@localhost ~ % echo $NEXT_STEP
-> Joining Epitech Lyon to keep pushing further.
-```
+<div align="center">
+<img src="assets/terminal.svg" alt="Terminal intro" width="700" />
+</div>
 
 <br>
 
